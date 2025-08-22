@@ -2,7 +2,7 @@
 
 This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) allianace to draw every jackets for level 20 charts of SDVX, in a chronographical order.
 
-(TODO: insert link here)
+<https://wplace.live/?lat=44.6917&lng=4.2209&zoom=15>
 
 > [!WARNING]
 > The template image will be updated from time to time.
