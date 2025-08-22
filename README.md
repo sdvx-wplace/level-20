@@ -14,7 +14,7 @@ For instructions on how to install BlueMarble, [refer to this guide](https://git
 
 [Click this link to get the template image.](./level-20.png)
 
-The coordinates for BlueMarble are: **1047 738 490 210**.
+The coordinates for BlueMarble are: **1047 738 489 211**.
 
 ## Changes
 
