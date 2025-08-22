@@ -4,20 +4,17 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 
 (TODO: insert link here)
 
-> [!CAUTION]
-> This project is not yet started.
-
 > [!WARNING]
 > The template image will be updated from time to time.
 >
-> At the bottom of the template, the revision number of the template has been engraved.
+> At the **bottom right corner** of the template, the version number of the template has been engraved.
 > If your template does not match what's on the map, please re-download the template.
 
 For instructions on how to install BlueMarble, [refer to this guide](https://github.com/sdvx-wplace/joyeuse?tab=readme-ov-file#using-bluemarble).
 
 [Click this link to get the template image.](./level-20.png)
 
-The coordinates for BlueMarble are: **(to be determined)**.
+The coordinates for BlueMarble are: **1047 738 490 210**.
 
 ## Changes
 
