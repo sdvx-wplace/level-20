@@ -10,11 +10,29 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 > At the **bottom right corner** of the template, the version number of the template has been engraved.
 > If your template does not match what's on the map, please re-download the template.
 
+> [!WARNING]
+> Before working on a jacket, be sure to check the "Jacket Status" section below.
+
 For instructions on how to install BlueMarble, [refer to this guide](https://github.com/sdvx-wplace/joyeuse?tab=readme-ov-file#using-bluemarble).
 
 [Click this link to get the template image.](./level-20.png)
 
 The coordinates for BlueMarble are: **1047 738 489 215**.
+
+## Jacket Status
+
+The initial dithering is not clean, so they should be manually adjusted.
+
+- **Unlisted**: Not yet adjusted, adjustment likely needed.
+- **Unstable**: Adjusted, but further change is expected to happen.
+- **Stable**: Adjusted, further change may possible but likely in a minor way.
+
+**It is recommended to work on 'Stable' jackets first, then 'Unstable'. Works on unlisted jackets are likely to be overwritten.**
+
+| Song | Status |
+| ---- | ------ |
+| Mixxion | Stable |
+| Sudden Death | Unstable |
 
 ## Changes
 
