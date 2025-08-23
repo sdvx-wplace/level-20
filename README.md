@@ -18,7 +18,11 @@ The coordinates for BlueMarble are: **1047 738 489 215**.
 
 ## Changes
 
-Current version: **v01**
+Current version: **v02**
+
+| Version | Changes |
+| ------- | ------- |
+| 02 | Improved **Sudden Death** and **Mixxion**. |
 
 ## Drawing
 
