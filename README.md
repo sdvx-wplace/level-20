@@ -29,17 +29,19 @@ The initial dithering is not clean, so they should be manually adjusted.
 
 **It is recommended to work on 'Stable' jackets first, then 'Unstable'. Works on unlisted jackets are likely to be overwritten.**
 
-| Song | Status |
-| ---- | ------ |
-| Mixxion | Stable |
-| Sudden Death | Unstable |
+| Song | Status | Last Edited Version |
+| ---- | ------ | ------------------- |
+| Mixxion | Stable | 02 |
+| You Are My Best RivaL!! | Stable | 03 |
+| Sudden Death | Unstable | 02 |
 
 ## Changes
 
-Current version: **v02**
+Current version: **03**
 
 | Version | Changes |
 | ------- | ------- |
+| 03 | Improved **You Are My Best RivaL!!**. |
 | 02 | Improved **Sudden Death** and **Mixxion**. |
 
 ## Drawing
