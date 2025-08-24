@@ -8,7 +8,8 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 > The template image will be updated from time to time.
 >
 > At the **bottom right corner** of the template, the version number of the template has been engraved.
-> If your template does not match what's on the map, please re-download the template.
+>
+> Current version is **04**. If your template does not match what's on the map, please re-download the template.
 
 > [!WARNING]
 > Before working on a jacket, be sure to check the "Jacket Status" section below.
@@ -31,18 +32,16 @@ The initial dithering is not clean, so they should be manually adjusted.
 
 | Song | Status | Last Edited Version |
 | ---- | ------ | ------------------- |
+| HE4VEN | Unstable | 04 |
 | Mixxion | Stable | 02 |
 | You Are My Best RivaL!! | Stable | 03 |
 | Sudden Death | Unstable | 02 |
+| Don't you dare play GOD | Unstable | 04 |
+| Everlasting Message | Stable | 04 |
 
 ## Changes
 
-Current version: **03**
-
-| Version | Changes |
-| ------- | ------- |
-| 03 | Improved **You Are My Best RivaL!!**. |
-| 02 | Improved **Sudden Death** and **Mixxion**. |
+Current version: **04**
 
 ## Drawing
 
