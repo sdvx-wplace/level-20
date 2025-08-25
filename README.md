@@ -18,6 +18,8 @@ For instructions on how to install BlueMarble, [refer to this guide](https://git
 
 [Click this link to get the template image.](./level-20.png)
 
+Current version: **05**
+
 The coordinates for BlueMarble are: **1047 738 489 215**.
 
 ## Jacket Status
@@ -36,12 +38,13 @@ The initial dithering is not clean, so they should be manually adjusted.
 | Mixxion | Stable | 02 |
 | You Are My Best RivaL!! | Stable | 03 |
 | Sudden Death | Unstable | 02 |
+| Heaven's Rain | Stable | 05 |
+| Akasha | Stable | 05 |
+| World Hexathlon | Stable | 05 |
 | Don't you dare play GOD | Unstable | 04 |
 | Everlasting Message | Stable | 04 |
 
-## Changes
-
-Current version: **04**
+Note: for every stable jacket, there is one *easter-egg*.
 
 ## Drawing
 
