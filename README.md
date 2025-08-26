@@ -9,7 +9,7 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 >
 > At the **bottom right corner** of the template, the version number of the template has been engraved.
 >
-> Current version is **04**. If your template does not match what's on the map, please re-download the template.
+> Current version is **05**. If your template does not match what's on the map, please re-download the template.
 
 > [!WARNING]
 > Before working on a jacket, be sure to check the "Jacket Status" section below.
@@ -17,8 +17,6 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 For instructions on how to install BlueMarble, [refer to this guide](https://github.com/sdvx-wplace/joyeuse?tab=readme-ov-file#using-bluemarble).
 
 [Click this link to get the template image.](./level-20.png)
-
-Current version: **05**
 
 The coordinates for BlueMarble are: **1047 738 489 215**.
 
