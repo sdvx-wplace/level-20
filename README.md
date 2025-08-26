@@ -9,7 +9,7 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 >
 > At the **bottom right corner** of the template, the version number of the template has been engraved.
 >
-> Current version is **05**. If your template does not match what's on the map, please re-download the template.
+> Current version is **06**. If your template does not match what's on the map, please re-download the template.
 
 > [!WARNING]
 > Before working on a jacket, be sure to check the "Jacket Status" section below.
@@ -32,7 +32,9 @@ The initial dithering is not clean, so they should be manually adjusted.
 
 | Song | Status | Last Edited Version |
 | ---- | ------ | ------------------- |
-| HE4VEN | Unstable | 04 |
+| HE4VEN | Stable | 06 |
+| I | Stable | 06 |
+| 666 | Stable | 06 |
 | Mixxion | Stable | 02 |
 | You Are My Best RivaL!! | Stable | 03 |
 | Sudden Death | Unstable | 02 |
@@ -55,6 +57,8 @@ In addition to default 31 colors, the following non-default colors have been add
 - Light Stone
 
 These colors have been carefully chosen to improve the quality of dithered image.
+
+Moreover, some non-default colors may be used for small improvements.
 
 You may draw any part of the image, but for maximal effectiveness, here are non-mandatory guidelines:
 
