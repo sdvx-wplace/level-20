@@ -9,7 +9,7 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 >
 > At the **bottom right corner** of the template, the version number of the template has been engraved.
 >
-> Current version is **07**. If your template does not match what's on the map, please re-download the template.
+> Current version is **08**. If your template does not match what's on the map, please re-download the template.
 
 > [!WARNING]
 > Before working on a jacket, be sure to check the "Jacket Status" section below.
@@ -33,18 +33,21 @@ The initial dithering is not clean, so they should be manually adjusted.
 | Song | Status | Last Edited Version |
 | ---- | ------ | ------------------- |
 | Lachryma | Stable | 07 |
-| HE4VEN | Stable | 06 |
+| HE4VEN | Stable | 08 |
+| Illness LiLin | Stable | 08 |
 | I | Stable | 06 |
 | Xronier | Stable | 07 |
-| 666 | Stable | 06 |
+| 666 | Stable | 08 |
 | Mixxion | Stable | 02 |
 | You Are My Best RivaL!! | Stable | 03 |
 | Sudden Death | Unstable | 02 |
-| Heaven's Rain | Stable | 05 |
-| Akasha | Stable | 05 |
-| World Hexathlon | Stable | 05 |
-| Don't you dare play GOD | Unstable | 04 |
-| Everlasting Message | Stable | 04 |
+| Heaven's Rain | Stable | 08 |
+| Akasha | Stable | 08 |
+| World Hexathlon | Stable | 08 |
+| eXLIPXe | Stable | 08 |
+| Don't you dare play GOD | Unstable | 08 |
+| Kannagi | Stable | 08 |
+| Everlasting Message | Stable | 08 |
 
 Note: for every stable jacket, there is one *easter-egg*.
 
