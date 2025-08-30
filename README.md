@@ -71,3 +71,8 @@ Here are some dimensions, by the way:
 - Each jacket's size is exactly 100-by-100 pixels.
 - Black borders surrounding each jacket are 2 pixels wide.
 - Neighboring jackets are separated by 14 pixel gaps (excluding borders), both horizontally and vertically.
+
+## AMOGUS
+
+Yes, amogi drawn on the right side of jackets are part of the template.
+Can you guess what's their purpose?
