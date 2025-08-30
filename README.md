@@ -9,7 +9,7 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 >
 > At the **bottom right corner** of the template, the version number of the template has been engraved.
 >
-> Current version is **09**. If your template does not match what's on the map, please re-download the template.
+> Current version is **10**. If your template does not match what's on the map, please re-download the template.
 
 > [!WARNING]
 > Before working on a jacket, be sure to check the "Jacket Status" section below.
@@ -38,8 +38,11 @@ The initial dithering is not clean, so they should be manually adjusted.
 | Whiteout | Stable | 09 |
 | I | Stable | 06 |
 | Xronier | Stable | 07 |
+| EgO | Stable | 10 |
 | 666 | Stable | 08 |
+| VVelcome!! | Stable | 10 |
 | MAYHEM | Stable | 09 |
+| Reminiscence | Stable | 10 |
 | Mixxion | Stable | 02 |
 | You Are My Best RivaL!! | Stable | 03 |
 | Sudden Death | Unstable | 02 |
