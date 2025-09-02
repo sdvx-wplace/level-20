@@ -40,6 +40,7 @@ The initial dithering is not clean, so they should be manually adjusted.
 | I | Stable | 06 |
 | Xronier | Stable | 07 |
 | Seasickness | Stable | 11 |
+| Embryo | Stable | 12 |
 | EgO | Stable | 10 |
 | Shockwave | Stable | 11 |
 | 666 | Stable | 08 |
