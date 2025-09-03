@@ -9,7 +9,7 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 >
 > At the **right side** of the template, the version number of the template has been engraved.
 >
-> Current version is **12**. If your template does not match what's on the map, please re-download the template.
+> Current version is **13**. If your template does not match what's on the map, please re-download the template.
 
 > [!WARNING]
 > Before working on a jacket, be sure to check the "Jacket Status" section below.
@@ -48,13 +48,15 @@ The initial dithering is not clean, so they should be manually adjusted.
 | MAYHEM | Stable | 09 |
 | Reminiscence | Stable | 10 |
 | Mixxion | Stable | 02 |
+| Ima Kimini | Stable | 13 |
 | You Are My Best RivaL!! | Stable | 03 |
 | Sudden Death | Stable | 12 |
 | Heaven's Rain | Stable | 08 |
 | Akasha | Stable | 08 |
 | World Hexathlon | Stable | 08 |
 | eXLIPXe | Stable | 08 |
-| Don't you dare play GOD | Unstable | 08 |
+| Sayonara Planet Wars | Stable | 13 |
+| Don't you dare play GOD | Stable | 13 |
 | Kannagi | Stable | 08 |
 | Everlasting Message | Stable | 08 |
 | Kingdom Come | Stable | 09 |
