@@ -9,7 +9,7 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 >
 > At the **right side** of the template, the version number of the template has been engraved.
 >
-> Current version is **14**. If your template does not match what's on the map, please re-download the template.
+> Current version is **15**. If your template does not match what's on the map, please re-download the template.
 
 > [!WARNING]
 > Before working on a jacket, be sure to check the "Jacket Status" section below.
@@ -19,51 +19,6 @@ For instructions on how to install BlueMarble, [refer to this guide](https://git
 [Click this link to get the template image.](./level-20.png)
 
 The coordinates for BlueMarble are: **1047 738 489 215**.
-
-## Jacket Status
-
-The initial dithering is not clean, so they should be manually adjusted.
-
-- **Unlisted**: Not yet adjusted, adjustment likely needed.
-- **Unstable**: Adjusted, but further change is expected to happen.
-- **Stable**: Adjusted, further change may possible but likely in a minor way.
-
-**It is recommended to work on 'Stable' jackets first, then 'Unstable'. Works on unlisted jackets are likely to be overwritten.**
-
-| Song | Status | Last Edited Version |
-| ---- | ------ | ------------------- |
-| Lachryma | Stable | 07 |
-| HE4VEN | Stable | 08 |
-| Illness LiLin | Stable | 08 |
-| FIN4LE | Stable | 11 |
-| Whiteout | Stable | 09 |
-| I | Stable | 06 |
-| Xronier | Stable | 07 |
-| Seasickness | Stable | 11 |
-| Embryo | Stable | 12 |
-| EgO | Stable | 10 |
-| Shockwave | Stable | 11 |
-| 666 | Stable | 08 |
-| VVelcome!! | Stable | 10 |
-| MAYHEM | Stable | 09 |
-| Reminiscence | Stable | 10 |
-| Mixxion | Stable | 02 |
-| Bloomin' | Stable | 14 |
-| Ima Kimini | Stable | 13 |
-| You Are My Best RivaL!! | Stable | 03 |
-| Sudden Death | Stable | 12 |
-| Apocalypse Ray | Unstable | 14 |
-| Heaven's Rain | Stable | 08 |
-| Akasha | Stable | 08 |
-| World Hexathlon | Stable | 08 |
-| eXLIPXe | Stable | 08 |
-| Sayonara Planet Wars | Stable | 13 |
-| Don't you dare play GOD | Stable | 13 |
-| Kannagi | Stable | 08 |
-| Everlasting Message | Stable | 08 |
-| Kingdom Come | Stable | 09 |
-
-Note: for every stable jacket, there is one *easter-egg*.
 
 ## Drawing
 
