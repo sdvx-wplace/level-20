@@ -9,7 +9,7 @@ This is by the wplace [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7
 >
 > At the **right side** of the template, the version number of the template has been engraved.
 >
-> Current version is **15**. If your template does not match what's on the map, please re-download the template.
+> Current version is **16**. If your template does not match what's on the map, please re-download the template.
 
 > [!WARNING]
 > Before working on a jacket, be sure to check the "Jacket Status" section below.
